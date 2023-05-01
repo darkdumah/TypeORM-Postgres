@@ -1,5 +1,5 @@
 This is an example of relational database design
-using TypeORM librady with Typescript and Postges db.
+using TypeORM library with Typescript and Postges db.
 
 Using a Object-Relational-Mapping method is a useful way
 to link your application to a relational database.
